@@ -23,7 +23,7 @@ import { cloudUploadOutline } from 'ionicons/icons';
 export class Tab1Page {
 
   imageReady = signal(false)
-  imageUrl = signal("")
+  imageUrl = signal("https://teachablemachine.withgoogle.com/models/Wfrv2typT/")
 
   constructor() {
     /* Registre el ícono */
